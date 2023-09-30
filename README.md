@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning different types of**Application Development**
+- 🌱 I’m currently learning different types of **Application Development**
 
 - 🔭 I’m currently working on **creating a website that falls within the categories of Location-Based Services and Smart City Solutions**
 
