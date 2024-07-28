@@ -3,7 +3,7 @@
   <img src="https://media.licdn.com/dms/image/C5616AQGassiKBmqhkw/profile-displaybackgroundimage-shrink_200_800/0/1634749417835?e=2147483647&v=beta&t=Ds5mGn84ayJe9yAWuj7_2nEjuFoLSJsQ1OhnHt0Kl7M"/>
 </p>
 <h1 align="center">Hi 👋, I'm Shambhavi Khanna</h1>
-<h3 align="center">Hello! I am a dedicated and passionate engineering student with a strong foundation in coding and a keen interest in creating innovative solutions through technology.</h3>
+<h3 align="center">Hello! I am a dedicated and passionate engineering student with a keen interest in creating innovative solutions through technology.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
@@ -11,9 +11,9 @@
 
 
 
-- 🌱 I’m currently learning different types of **Application Development**
+- 🌱 I’m currently learning and improving my **tech skills**
 
-- 🔭 I’m currently working on **creating a website that falls within the categories of Location-Based Services and Smart City Solutions**
+- 🔭 I’m currently working on **my major project**
 
 - 📫 How to reach me **khannashambhavi370@gmail.com**
 
